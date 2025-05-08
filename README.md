@@ -30,3 +30,19 @@ Web Application: User-friendly interface for inputting data and viewing predicti
 User Authentication: Secure login system to manage user access.
 
 Database Integration: Stores user information and prediction history for future reference.
+
+🚀 Getting Started
+Prerequisites
+Ensure you have the following installed:
+
+Python 3.6 or higher
+
+pip (Python package installer)
+
+Installation
+1)Clone the repository:git clone https://github.com/anushmatte/Crop-Yield-Prediction-using-machine-learning-approaches.git
+cd Crop-Yield-Prediction-using-machine-learning-approaches
+2)Create a virtual environment (optional but recommended):python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+3)Install the required packages:
+
